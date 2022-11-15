@@ -1,4 +1,6 @@
 # MuseScore Sheets
 
-Ode to Joy - Piano
-Three Blind Mice - Piano
+| Song | Instrument |
+|----------|--------|
+| Ode to Joy | Piano |
+| Three Blind Mice | Piano |
