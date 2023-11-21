@@ -10,5 +10,6 @@
 | [Nine Seconds Til Midnight](https://musescore.com/user/151255/scores/11018503) | Piano |
 | [Second Childhood](https://musescore.com/user/151255/scores/11144722) | Piano |
 | [Seeking Escape](https://musescore.com/user/151255/scores/11070271) | Piano |
+| [Talking Diamonds](https://musescore.com/user/151255/scores/13147096) | Piano |
 | Ode to Joy | Piano |
 | Three Blind Mice | Piano |
