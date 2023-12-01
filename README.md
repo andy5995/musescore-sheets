@@ -8,6 +8,7 @@
 | [Little Owen's Journey](https://musescore.com/user/151255/scores/13064497) | Piano |
 | [Nebula Rising](https://musescore.com/user/151255/scores/10752862) | Piano |
 | [Nine Seconds Til Midnight](https://musescore.com/user/151255/scores/11018503) | Piano |
+| [Reckoning of the Fates](https://musescore.com/user/151255/scores/13293496) | Piano, Violin |
 | [Second Childhood](https://musescore.com/user/151255/scores/11144722) | Piano |
 | [Seeking Escape](https://musescore.com/user/151255/scores/11070271) | Piano |
 | [Talking Diamonds](https://musescore.com/user/151255/scores/13147096) | Piano |
